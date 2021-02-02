@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478469669374",
+    "project_id": "fir-flutter-codela",
+    "storage_bucket": "fir-flutter-codela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478469669374:android:094455fb69579a56dd80af",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478469669374-1oepk8qrba2v1flltptp4759ispefr9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvzBx2vwvN9F31KULWa5iQaBWWAqkFeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478469669374-1oepk8qrba2v1flltptp4759ispefr9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
